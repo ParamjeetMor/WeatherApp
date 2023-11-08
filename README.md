@@ -10,7 +10,7 @@ https://paramjeetmor.github.io/WeatherApp/
 - Fetch
 - Async Await
 
-  # Cretated Using
-  -HTML
-  -CSS
-  -Javascript
+# Cretated Using
+-HTML
+-CSS
+-Javascript
