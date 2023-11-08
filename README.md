@@ -11,6 +11,6 @@ https://paramjeetmor.github.io/WeatherApp/
 - Async Await
 
 # Cretated Using
--HTML
--CSS
--Javascript
+- HTML
+- CSS
+- Javascript
